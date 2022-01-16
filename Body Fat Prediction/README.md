@@ -8,9 +8,6 @@ https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset
 Lists estimates of the percentage of body fat determined by underwater
 weighing and various body circumference measurements for 252 men.
 
-**Educational use of the dataset**
-
-This data set can be used to illustrate multiple regression techniques. Accurate measurement of body fat is inconvenient/costly and it is desirable to have easy methods of estimating body fat that are not inconvenient/costly.
-
-**Pipeline + Nested cross-validation with hyperparameter tuning
+**Pipeline + Nested cross-validation with hyperparameter tuning**
+<img width="745" alt="12" src="https://user-images.githubusercontent.com/85137348/149643657-545e3bea-357a-4893-9e52-02b93a213a34.png">
 
