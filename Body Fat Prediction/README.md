@@ -13,6 +13,7 @@ weighing and various body circumference measurements for 252 men.
 This data set can be used to illustrate multiple regression techniques. Accurate measurement of body fat is inconvenient/costly and it is desirable to have easy methods of estimating body fat that are not inconvenient/costly.
 
 **Pipeline + Nested cross-validation with hyperparameter tuning
+
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import RobustScaler,PowerTransformer
 from sklearn.pipeline import make_pipeline; from sklearn.compose import make_column_transformer
